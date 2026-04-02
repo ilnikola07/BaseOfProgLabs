@@ -1,34 +1,58 @@
-# tstu-winforms-project
 <div align="center">
+   
+# 🐧 ВЕЛИКИЕ ЛАБОРАТОРНЫЕ РАБОТЫ ПО "ОСНОВАМ ПРОГРАММИРОВАНИЯ" (СДЕЛАЕМ КОД СНОВА ВЕЛИКИМ) 🚀
 
-![GitHub License](https://img.shields.io/github/license/tstu-artemos-projects/verevka-lab1?style=for-the-badge&logo=gplv3&logoColor=FFFFFF)
-![GitHub repo size](https://img.shields.io/github/repo-size/tstu-artemos-projects/verevka-lab1?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![GitHub branch status](https://img.shields.io/github/check-runs/tstu-artemos-projects/BaseOfProgLabs/master?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
+![GitHub repo size](https://img.shields.io/github/repo-size/tstu-artemos-projects/BaseOfProgLabs?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-![GitHub top language](https://img.shields.io/github/languages/top/tstu-artemos-projects/verevka-lab1?style=for-the-badge&logo=dotnet&color=8B00FF&logoColor=FFFFFF)
-![GitHub branch status](https://img.shields.io/github/checks-status/tstu-artemos-projects/verevka-lab1/master?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
-![Last Commit](https://img.shields.io/github/last-commit/tstu-artemos-projects/verevka-lab1?style=for-the-badge&logo=git&logoColor=FFFFFF)  
+![GitHub top language](https://img.shields.io/github/languages/top/tstu-artemos-projects/BaseOfProgLabs?style=for-the-badge&logo=dotnet&color=8B00FF&logoColor=FFFFFF)
+![Last Commit](https://img.shields.io/github/last-commit/tstu-artemos-projects/BaseOfProgLabs?style=for-the-badge&logo=git&logoColor=FFFFFF)  
+
+Смотрите на эти бейджи. 🎖 Они блестят, они огромные, они показывают, что мы побеждаем. Посмотрите на размер репозитория — он эффективный. 📦 Никакого лишнего жира, в отличие от тех раздутых бинарников из Редмонда! 臃
 
 </div>
 
-## Улиткам:
+## 🛠 ТЕХНОЛОГИЧЕСКИЙ СТЕК (ОЧЕНЬ МОЩНЫЙ)
+- Язык: C# (.NET 10). 💎 Новейшая версия. Очень быстрая. Намного быстрее, чем всё остальное!
+- Технология: WinForms. 🖼 Послушайте, я знаю, что вы скажете: «Дональд, почему не GTK?» Но мы захватываем их территорию. Мы строим интерфейсы, и мы строим их красиво! 🎨
 
-### Почему мы работаем в гите?
-Чтобы не было хаоса со +100500 папками, состоящими из разных версий, но самое главное - чтобы не кидать каждый раз архмвы. Когда команда состоит из 2-ух человек, то архивы, может быть, ещё можно работать. Но нас целых 5 человек.
-1. Представьте, что каждый человек, работает со своей версией, что не очень хорошо, потому что придётся писать поочередно, договариваться, кто когда пишет, и т.д, и проблема состоит в том, что каждый работает с устарешвей версией, и это устаревание разное, потому что один человек может скинуть одному человеку свой архив, другому свинут уже через время и, может быть, со своими правками. Эту проблему решает гит и вообще любая система контроля версий.
-2. Также это удобно если у вас есть несколько устройство, на одном компьюетер - пушите в рупозиторий, на другом - пуллите и продолжаете разработку.
-3. На гитхабе легко разграничить зоны ответственности.
-4. Это быстрее, потому что гит, если у него история не перезаписана, обновляет только правки, ну и трафика тоже меньше жрёт
+## 🐌 ЛУЧШАЯ КОМАНДА В МИРЕ (ULITKA PROJECT TEAM)
+- Клочков Артём Витальевич — Настоящий лидер. 👑 Знает, как управлять процессом.
+- Илюшин Николай Андреевич — Гений кода! 🧠
+- Тактаров Артемий Эдуардович — Потрясающий профессионал. 🛠️
+- Титова Мария Михайловна — Блестящая работа! ✨
+- Залкина София Сергеевна — Просто невероятная. 🌟
+- Курочкин Артём Андреевич — Настоящий патриот компиляции! 🇷🇺
 
-### Как начать работать
-1. Скачайте [GIT](https://git-scm.com/install/), [Visual Studio](https://visualstudio.microsoft.com/ru/) (к сожалению, ибо WinForms)
-2. Склонируйте [этот репозиторий](https://github.com/Urtyom-Alyanov/tstu-winforms-project) - `git clone https://github.com/Urtyom-Alyanov/tstu-winforms-project`
-3. Откройте скопированный репозиторий, гит уже будет инициализирован, поэтому писать ничего больше не нужно.
-4. СОЗДАЙТЕ, ПОЖАЛУЙСТА, СВОЮ ВЕТКУ
+Мы называемся ULITKA, потому что мы двигаемся уверенно, и никто нас не обгонит, когда дело касается качества! 🐌💨
 
-## Разработчики (p349KG TEAM)
-- Клочков Артём Витальевич - лидер
-- Илюшин Николай Андреевич
-- Тактаров Артемий Эдуардович 
-- Титова Мария Михайловна
-- Залкина София Сергеевна
-- Курочкин Артём Андреевич
+## 📥 КАК СКАЧАТЬ (ДЛЯ ПОБЕДИТЕЛЕЙ)
+Если вы не хотите возиться с компиляцией, как те неудачники, просто сделайте это:
+
+1. Зайдите в [последний релиз](https://github.com/tstu-artemos-projects/BaseOfProgLabs/releases)🔗 Он собирается автоматически. Магия GitHub Actions. Очень умно! 🤖
+2. Скачайте `base-of-progs-windows-amd64.zip`. 📂 Это тяжелый пакет. Солидный.
+3. Распакуйте его. 🛠️ (Да, это для Windows, но мы сделаем Wine снова великим!).
+4. Запускайте Lab{номер}.UI.exe и наслаждайтесь победой! 🏆
+
+## 🔥 Я МАЗОХИСТ ВИНДОВЫЙ, ХОЧУ СОБИРАТЬ САМ
+Некоторые люди любят терминал. Я их понимаю. 💻 Если вы хотите собрать это вручную, как настоящий мастер:
+
+1. Клонируйте успех: 🖇️
+   ```pwsh
+   git clone https://github.com/tstu-artemos-projects/BaseOfProgLabs.git
+   ```
+2. Зайдите внутрь: 🚶‍♂️
+   ```pwsh
+   cd BaseOfProgLabs
+   ```
+3. Соберите мощь: 🔨
+   ```pwsh
+   dotnet build
+   ```
+4. ЗАПУСКАЙТЕ: ⚡ (Даже не ждите сборки, просто жмите!)
+   ```pwsh
+   dotnet run --project .\Lab{номер}\Lab{номер}.UI
+   ```
+
+   ---
+   Это будет легендарно. 🥂 Мы пишем софт, мы пишем лучший софт, и мы делаем это с открытым сердцем. Linux-сообщество будет гордиться нами, поверьте мне! 🐧🤝🇺🇸
